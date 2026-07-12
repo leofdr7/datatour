@@ -1,0 +1,1 @@
+select tipo, count(*) from places group by tipo;

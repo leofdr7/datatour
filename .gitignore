@@ -1,0 +1,15 @@
+# Supabase local
+.branches
+.temp
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+dist/
+
+# Editor
+.vscode/
